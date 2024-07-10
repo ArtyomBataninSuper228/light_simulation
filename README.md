@@ -1,4 +1,5 @@
 # light_simulation
+Hello world
 This program simulates light behavior like a wave and draws a diagram. 
 
 # Examples
